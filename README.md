@@ -29,16 +29,3 @@ Application full stack de gestion de rendez-vous avec authentification, construi
 - Suppression d’un rendez-vous
 - Interface responsive en Bootstrap
 
----
-
-## 🛠️ Installation locale
-
-### Prérequis
-- .NET 6 SDK
-- Node.js / npm
-- Angular CLI (`npm install -g @angular/cli`)
-
-### 🔧 Backend (.NET API)
-```bash
-cd AppointmentManager.Api
-dotnet run
